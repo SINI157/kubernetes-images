@@ -1,1 +1,1 @@
-From apache/hadoop:3
+From farberg/apache-hadoop:3.3.2
