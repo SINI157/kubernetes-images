@@ -1,0 +1,1 @@
+From goharbor/trivy-adapter-photon:v2.0.0
